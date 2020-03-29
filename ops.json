@@ -52,5 +52,11 @@
       "name":"ThatOneTqnk",
       "level":4,
       "bypassesPlayerLimit":true
+   },
+   {
+      "uuid": "02407912-8bbf-4b7b-a34c-a45339841436",
+      "name": "unixfox",
+      "level":4,
+      "bypassesPlayerLimit":true
    }
 ]
